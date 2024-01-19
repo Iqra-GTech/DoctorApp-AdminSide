@@ -1,0 +1,2 @@
+[14-Jul-2023 09:13:20 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.29. in /home/digitalopinion1/doctorapp/vendor/composer/platform_check.php on line 24
+[14-Jul-2023 09:15:25 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.29. in /home/digitalopinion1/doctorapp/vendor/composer/platform_check.php on line 24
